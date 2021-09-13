@@ -15,5 +15,18 @@ SiSPI options:
  Usage Example:
  
     SiSPI.pl -t 0.3 -kw 10 -v 1 text1.txt text2.txt text3.txt
-    
 
+### Citation
+
+     @inproceedings{seno-nunes-Propor208,
+         title = "Some Experiments on Clustering Similar Sentences of Texts in {P}ortuguese",
+         author = "Eloize, R. M. Seno  and
+           Nunes, Maria das Graças V.",
+         booktitle = "International Conference on Computational Processing of Portuguese Language ({PROPOR} 2008)",
+         year = "2008",
+         address = "Aveiro, Portugal",
+         publisher = "Lecture Notes in Artificial Intelligence",   
+     }
+
+### Contact
+Contact eloize@ifsp.edu.br if you have any questions!
