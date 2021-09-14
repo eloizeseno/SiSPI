@@ -25,7 +25,8 @@ SiSPI options:
          booktitle = "International Conference on Computational Processing of Portuguese Language ({PROPOR} 2008)",
          year = "2008",
          address = "Aveiro, Portugal",
-         publisher = "Lecture Notes in Artificial Intelligence",   
+         publisher = "Lecture Notes in Artificial Intelligence, Volume 5190",
+         pages = "133--142",
      }
 
 ### Contact
