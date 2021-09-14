@@ -18,6 +18,8 @@ SiSPI options:
 
 ### Citation
 
+If you use SiSPI, please cite the paper:
+
      @inproceedings{seno-nunes-Propor208,
          title = "Some Experiments on Clustering Similar Sentences of Texts in {P}ortuguese",
          author = "Eloize, R. M. Seno  and
